@@ -1,0 +1,1001 @@
+id,nome_evento,marca_A,marca_B,marca_C,tipo_evento
+1,throughput,256,259,221,Rock
+2,knowledge base,245,255,171,Reggae
+3,Business-focused,207,203,300,Reggae
+4,Multi-tiered,273,244,214,Rock
+5,Customer-focused,280,219,160,Rock
+6,Public-key,240,238,123,Rock
+7,Sharable,268,277,201,Rock
+8,asynchronous,231,228,110,Reggae
+9,explicit,291,218,182,Hip Hop
+10,emulation,278,227,280,Hip Hop
+11,artificial intelligence,234,284,215,Hip Hop
+12,4th generation,273,214,129,Hip Hop
+13,Triple-buffered,283,257,107,Reggae
+14,Intuitive,253,247,142,Hip Hop
+15,web-enabled,249,245,254,Rock
+16,database,234,203,123,Reggae
+17,responsive,269,256,287,Reggae
+18,solution-oriented,270,242,277,Hip Hop
+19,disintermediate,222,205,193,Reggae
+20,Extended,242,292,112,Reggae
+21,Cross-platform,200,232,186,Hip Hop
+22,Quality-focused,224,274,192,Rock
+23,groupware,279,300,231,Rock
+24,website,275,298,222,Rock
+25,Stand-alone,217,221,293,Rock
+26,website,275,276,196,Reggae
+27,dynamic,228,213,206,Hip Hop
+28,frame,283,271,203,Rock
+29,Fundamental,230,220,230,Reggae
+30,Organic,265,286,267,Reggae
+31,stable,245,293,233,Rock
+32,forecast,207,297,117,Hip Hop
+33,Reverse-engineered,209,218,273,Reggae
+34,Compatible,270,226,229,Hip Hop
+35,time-frame,242,277,245,Hip Hop
+36,attitude,215,272,138,Rock
+37,collaboration,236,213,152,Rock
+38,Operative,202,269,207,Reggae
+39,Persevering,202,299,219,Reggae
+40,next generation,251,279,168,Rock
+41,Sharable,229,246,189,Hip Hop
+42,Reverse-engineered,297,211,172,Reggae
+43,Triple-buffered,217,285,299,Rock
+44,Mandatory,296,258,188,Rock
+45,eco-centric,211,224,135,Hip Hop
+46,hub,273,253,162,Hip Hop
+47,logistical,219,236,294,Hip Hop
+48,motivating,262,212,121,Hip Hop
+49,modular,210,293,173,Hip Hop
+50,migration,237,243,261,Rock
+51,multimedia,213,287,144,Reggae
+52,initiative,245,249,194,Reggae
+53,mobile,233,205,184,Hip Hop
+54,Open-architected,294,227,127,Hip Hop
+55,service-desk,207,215,162,Reggae
+56,Multi-channelled,237,225,145,Rock
+57,client-server,211,233,269,Hip Hop
+58,Profit-focused,274,260,293,Reggae
+59,success,272,289,283,Rock
+60,user-facing,227,205,294,Hip Hop
+61,Assimilated,242,273,262,Hip Hop
+62,Cross-group,272,219,181,Hip Hop
+63,methodical,258,252,135,Hip Hop
+64,strategy,238,215,181,Reggae
+65,Cross-platform,254,222,254,Reggae
+66,leading edge,207,256,232,Reggae
+67,global,237,200,108,Rock
+68,service-desk,215,258,226,Reggae
+69,definition,245,261,274,Reggae
+70,migration,267,281,126,Hip Hop
+71,cohesive,234,252,264,Rock
+72,strategy,275,238,172,Hip Hop
+73,content-based,271,287,224,Rock
+74,Persistent,206,291,171,Reggae
+75,forecast,248,217,269,Rock
+76,synergy,271,226,270,Reggae
+77,real-time,278,215,168,Hip Hop
+78,Front-line,229,250,109,Hip Hop
+79,Monitored,243,242,220,Hip Hop
+80,secured line,247,257,256,Rock
+81,4th generation,266,225,269,Rock
+82,pricing structure,254,281,100,Rock
+83,hardware,208,283,163,Rock
+84,website,296,286,124,Reggae
+85,client-driven,246,298,250,Rock
+86,analyzing,265,232,130,Rock
+87,Multi-layered,260,238,165,Rock
+88,alliance,269,295,237,Rock
+89,zero tolerance,279,220,262,Reggae
+90,system-worthy,298,213,214,Hip Hop
+91,zero administration,295,276,241,Hip Hop
+92,Balanced,278,214,272,Reggae
+93,6th generation,254,222,186,Rock
+94,5th generation,297,289,132,Reggae
+95,Re-contextualized,214,278,179,Rock
+96,coherent,213,240,182,Rock
+97,knowledge base,278,207,234,Rock
+98,internet solution,236,286,236,Hip Hop
+99,Multi-lateral,271,254,111,Hip Hop
+100,moderator,287,210,184,Hip Hop
+101,global,268,230,181,Reggae
+102,hybrid,271,290,113,Hip Hop
+103,holistic,233,254,126,Reggae
+104,eco-centric,294,262,235,Hip Hop
+105,open architecture,209,237,165,Rock
+106,interface,284,254,134,Rock
+107,Cross-platform,277,283,173,Rock
+108,intermediate,200,269,256,Reggae
+109,paradigm,300,207,146,Reggae
+110,Exclusive,295,299,246,Rock
+111,Right-sized,235,290,259,Rock
+112,open architecture,225,240,111,Reggae
+113,needs-based,266,273,231,Reggae
+114,portal,223,300,164,Hip Hop
+115,object-oriented,215,214,174,Hip Hop
+116,functionalities,272,247,268,Hip Hop
+117,Exclusive,215,254,195,Rock
+118,Re-contextualized,269,297,189,Rock
+119,discrete,264,252,134,Reggae
+120,Implemented,280,254,298,Rock
+121,dedicated,266,292,264,Hip Hop
+122,object-oriented,250,284,105,Hip Hop
+123,Customer-focused,205,209,164,Rock
+124,flexibility,210,295,251,Rock
+125,empowering,277,285,260,Rock
+126,service-desk,203,224,126,Hip Hop
+127,zero tolerance,261,207,247,Rock
+128,Re-contextualized,288,267,244,Hip Hop
+129,solution-oriented,212,295,263,Hip Hop
+130,impactful,230,245,164,Hip Hop
+131,archive,269,284,254,Reggae
+132,logistical,287,259,174,Reggae
+133,Compatible,205,264,266,Rock
+134,instruction set,281,276,167,Reggae
+135,Upgradable,247,270,190,Hip Hop
+136,Digitized,229,201,211,Reggae
+137,benchmark,298,216,206,Rock
+138,firmware,287,213,226,Hip Hop
+139,standardization,261,210,261,Reggae
+140,moratorium,257,251,162,Rock
+141,dynamic,220,247,129,Rock
+142,adapter,221,228,103,Reggae
+143,Virtual,260,229,197,Hip Hop
+144,algorithm,237,265,183,Reggae
+145,systemic,295,270,289,Rock
+146,mobile,215,248,178,Reggae
+147,capability,260,202,136,Reggae
+148,Synergized,273,285,217,Reggae
+149,attitude,214,228,293,Rock
+150,coherent,264,270,277,Reggae
+151,concept,210,257,167,Hip Hop
+152,frame,208,251,186,Rock
+153,matrices,266,253,225,Reggae
+154,instruction set,269,201,218,Rock
+155,maximized,251,212,246,Rock
+156,didactic,274,270,205,Reggae
+157,groupware,248,264,105,Reggae
+158,impactful,227,280,129,Rock
+159,needs-based,261,299,246,Rock
+160,contingency,204,298,277,Hip Hop
+161,implementation,205,232,271,Hip Hop
+162,Multi-tiered,286,284,248,Rock
+163,Secured,257,206,162,Reggae
+164,Diverse,249,250,109,Rock
+165,circuit,284,292,270,Rock
+166,flexibility,203,292,130,Rock
+167,directional,266,208,270,Hip Hop
+168,migration,284,290,264,Hip Hop
+169,Automated,259,267,243,Hip Hop
+170,capacity,214,239,242,Hip Hop
+171,didactic,283,217,131,Reggae
+172,well-modulated,206,291,177,Reggae
+173,6th generation,293,252,175,Reggae
+174,zero administration,296,265,169,Rock
+175,client-driven,224,204,158,Rock
+176,adapter,268,215,132,Rock
+177,high-level,245,242,296,Reggae
+178,groupware,235,275,226,Hip Hop
+179,empowering,242,295,273,Rock
+180,homogeneous,280,279,249,Hip Hop
+181,actuating,277,227,244,Hip Hop
+182,archive,225,227,228,Reggae
+183,Horizontal,276,290,288,Reggae
+184,bifurcated,284,221,138,Rock
+185,user-facing,268,259,244,Rock
+186,help-desk,249,267,193,Rock
+187,secured line,252,250,197,Reggae
+188,Intuitive,204,234,104,Hip Hop
+189,Vision-oriented,260,249,201,Reggae
+190,neural-net,217,220,223,Rock
+191,frame,201,243,169,Reggae
+192,Automated,200,290,267,Hip Hop
+193,intranet,219,289,144,Reggae
+194,content-based,255,268,181,Rock
+195,Multi-layered,204,243,118,Rock
+196,challenge,292,258,218,Reggae
+197,holistic,227,244,242,Rock
+198,Re-contextualized,223,241,182,Rock
+199,national,293,225,190,Hip Hop
+200,context-sensitive,277,291,141,Reggae
+201,workforce,200,254,220,Reggae
+202,flexibility,226,245,101,Rock
+203,Business-focused,265,207,234,Rock
+204,Object-based,298,225,175,Rock
+205,success,299,211,238,Reggae
+206,service-desk,299,215,286,Rock
+207,Compatible,227,266,254,Rock
+208,solution-oriented,268,260,289,Rock
+209,intangible,205,273,293,Reggae
+210,time-frame,210,246,212,Reggae
+211,secured line,244,277,277,Hip Hop
+212,eco-centric,269,284,239,Rock
+213,Proactive,245,289,193,Hip Hop
+214,Up-sized,268,248,256,Reggae
+215,modular,217,209,263,Hip Hop
+216,support,222,269,129,Hip Hop
+217,Cross-platform,253,283,191,Reggae
+218,Ergonomic,201,295,158,Hip Hop
+219,well-modulated,276,203,205,Rock
+220,composite,263,245,175,Rock
+221,responsive,270,292,165,Hip Hop
+222,Public-key,222,239,290,Rock
+223,strategy,242,279,159,Reggae
+224,Reverse-engineered,286,239,291,Reggae
+225,incremental,264,289,119,Hip Hop
+226,workforce,216,263,184,Rock
+227,secondary,269,200,225,Rock
+228,portal,300,289,273,Rock
+229,fault-tolerant,266,252,288,Rock
+230,Cross-group,224,282,131,Hip Hop
+231,focus group,275,268,190,Hip Hop
+232,Triple-buffered,274,228,264,Hip Hop
+233,ability,229,200,161,Hip Hop
+234,context-sensitive,213,242,270,Rock
+235,approach,232,260,253,Reggae
+236,infrastructure,240,246,259,Hip Hop
+237,uniform,297,211,183,Hip Hop
+238,moderator,294,269,300,Rock
+239,instruction set,219,232,219,Hip Hop
+240,analyzer,297,220,283,Rock
+241,Reduced,220,270,200,Rock
+242,4th generation,283,293,291,Hip Hop
+243,website,241,214,254,Rock
+244,system engine,287,234,296,Hip Hop
+245,throughput,227,206,257,Reggae
+246,asynchronous,282,248,237,Rock
+247,regional,215,240,281,Rock
+248,projection,219,229,165,Rock
+249,forecast,276,202,224,Reggae
+250,Object-based,300,202,150,Rock
+251,interactive,261,263,135,Reggae
+252,algorithm,268,293,111,Reggae
+253,Optimized,270,239,271,Hip Hop
+254,Assimilated,293,292,124,Reggae
+255,responsive,224,298,293,Rock
+256,stable,243,259,141,Rock
+257,knowledge base,276,220,109,Rock
+258,Ameliorated,218,260,117,Rock
+259,human-resource,210,279,108,Rock
+260,grid-enabled,222,256,129,Reggae
+261,Quality-focused,242,218,115,Hip Hop
+262,algorithm,260,204,166,Hip Hop
+263,Adaptive,240,272,273,Rock
+264,uniform,277,237,128,Reggae
+265,Synergized,284,276,274,Hip Hop
+266,Realigned,300,239,163,Reggae
+267,infrastructure,251,233,254,Reggae
+268,local area network,298,218,282,Rock
+269,De-engineered,227,271,123,Reggae
+270,alliance,295,231,137,Hip Hop
+271,data-warehouse,278,288,125,Rock
+272,modular,225,212,180,Hip Hop
+273,time-frame,245,277,136,Reggae
+274,Seamless,208,234,298,Hip Hop
+275,Polarised,219,295,259,Reggae
+276,hybrid,203,246,228,Rock
+277,monitoring,218,208,128,Rock
+278,5th generation,249,213,202,Hip Hop
+279,Object-based,213,268,276,Hip Hop
+280,didactic,208,219,129,Hip Hop
+281,De-engineered,236,223,180,Rock
+282,workforce,260,213,233,Hip Hop
+283,parallelism,230,265,270,Hip Hop
+284,Open-architected,251,283,300,Rock
+285,secured line,201,272,221,Hip Hop
+286,foreground,295,245,138,Hip Hop
+287,eco-centric,285,248,208,Rock
+288,holistic,292,242,142,Hip Hop
+289,cohesive,239,286,176,Hip Hop
+290,didactic,233,233,126,Rock
+291,Ergonomic,238,228,123,Hip Hop
+292,global,275,203,174,Hip Hop
+293,firmware,294,297,206,Rock
+294,Secured,235,235,227,Reggae
+295,Assimilated,253,223,287,Reggae
+296,context-sensitive,285,216,218,Rock
+297,strategy,300,227,239,Reggae
+298,project,273,204,208,Hip Hop
+299,local,252,229,191,Rock
+300,focus group,246,238,290,Hip Hop
+301,monitoring,289,280,214,Reggae
+302,service-desk,285,208,141,Reggae
+303,instruction set,300,256,238,Hip Hop
+304,executive,263,250,100,Rock
+305,User-centric,278,239,292,Hip Hop
+306,Realigned,245,260,234,Reggae
+307,Streamlined,279,275,166,Reggae
+308,standardization,286,255,110,Hip Hop
+309,Implemented,290,277,255,Reggae
+310,Optional,291,260,283,Rock
+311,Pre-emptive,208,233,183,Hip Hop
+312,Down-sized,251,293,234,Reggae
+313,Re-contextualized,254,274,146,Rock
+314,implementation,229,279,226,Hip Hop
+315,Realigned,210,201,244,Rock
+316,Realigned,253,295,143,Rock
+317,Visionary,249,293,176,Rock
+318,protocol,281,298,194,Hip Hop
+319,matrices,214,269,274,Hip Hop
+320,Polarised,257,207,113,Hip Hop
+321,real-time,251,239,130,Reggae
+322,Reverse-engineered,269,281,177,Hip Hop
+323,methodical,255,281,293,Hip Hop
+324,systemic,215,286,179,Hip Hop
+325,Enhanced,201,279,122,Reggae
+326,Assimilated,273,221,204,Hip Hop
+327,flexibility,298,241,217,Rock
+328,analyzing,236,213,200,Reggae
+329,productivity,245,220,282,Hip Hop
+330,model,221,234,283,Rock
+331,conglomeration,300,275,140,Hip Hop
+332,leverage,274,264,123,Reggae
+333,Organic,234,273,296,Hip Hop
+334,fault-tolerant,280,266,142,Rock
+335,utilisation,220,246,263,Reggae
+336,customer loyalty,222,217,174,Reggae
+337,Multi-channelled,245,280,272,Reggae
+338,intranet,241,202,103,Reggae
+339,hierarchy,213,279,177,Reggae
+340,analyzer,249,270,147,Reggae
+341,initiative,260,287,217,Rock
+342,reciprocal,253,288,265,Reggae
+343,non-volatile,239,229,182,Hip Hop
+344,Re-contextualized,217,208,230,Rock
+345,tertiary,221,236,300,Rock
+346,Centralized,227,266,243,Rock
+347,solution-oriented,264,262,102,Rock
+348,Cross-platform,279,237,181,Hip Hop
+349,algorithm,252,283,225,Rock
+350,protocol,251,238,102,Reggae
+351,User-friendly,287,211,152,Reggae
+352,Devolved,202,238,149,Reggae
+353,complexity,247,247,182,Reggae
+354,Synergistic,292,277,204,Reggae
+355,Expanded,257,294,207,Rock
+356,Universal,208,290,184,Reggae
+357,support,226,225,300,Rock
+358,Realigned,280,261,212,Reggae
+359,zero defect,220,245,188,Hip Hop
+360,Balanced,264,269,199,Hip Hop
+361,frame,291,254,240,Rock
+362,monitoring,240,273,189,Rock
+363,multi-tasking,274,260,242,Rock
+364,initiative,220,221,182,Rock
+365,foreground,268,247,100,Hip Hop
+366,zero administration,269,208,159,Rock
+367,methodical,283,250,107,Rock
+368,static,293,274,117,Hip Hop
+369,interface,286,284,193,Reggae
+370,Sharable,261,240,137,Reggae
+371,needs-based,243,263,260,Rock
+372,high-level,222,269,136,Rock
+373,Centralized,279,261,283,Reggae
+374,collaboration,253,259,157,Reggae
+375,toolset,273,246,181,Hip Hop
+376,hierarchy,212,238,203,Reggae
+377,Configurable,275,202,285,Rock
+378,bi-directional,296,268,141,Rock
+379,Synergized,252,222,274,Reggae
+380,archive,240,238,181,Hip Hop
+381,needs-based,290,232,234,Rock
+382,software,247,266,107,Hip Hop
+383,Integrated,287,276,163,Reggae
+384,methodology,230,278,223,Rock
+385,optimal,279,230,139,Reggae
+386,Progressive,225,222,251,Hip Hop
+387,dedicated,222,214,260,Reggae
+388,Decentralized,213,278,120,Rock
+389,Reactive,292,251,291,Reggae
+390,attitude,231,258,171,Rock
+391,functionalities,263,278,145,Reggae
+392,client-server,219,291,225,Reggae
+393,middleware,281,252,155,Reggae
+394,context-sensitive,293,297,197,Hip Hop
+395,product,215,294,285,Rock
+396,Advanced,236,232,147,Reggae
+397,Assimilated,255,228,134,Reggae
+398,Focused,285,282,173,Hip Hop
+399,task-force,269,291,213,Rock
+400,Ergonomic,251,282,237,Reggae
+401,6th generation,296,266,178,Hip Hop
+402,Object-based,287,253,298,Rock
+403,tertiary,295,214,139,Rock
+404,circuit,282,275,237,Hip Hop
+405,collaboration,260,262,119,Rock
+406,Re-contextualized,269,247,105,Reggae
+407,local area network,283,236,171,Rock
+408,interactive,253,298,287,Rock
+409,initiative,270,297,244,Reggae
+410,Streamlined,231,288,194,Rock
+411,extranet,298,233,104,Rock
+412,Customizable,223,270,289,Rock
+413,hardware,292,208,283,Reggae
+414,Reduced,227,283,208,Reggae
+415,bottom-line,236,288,239,Reggae
+416,project,240,214,258,Rock
+417,Graphical User Interface,215,271,152,Rock
+418,Adaptive,253,241,262,Hip Hop
+419,modular,202,283,105,Rock
+420,Pre-emptive,237,278,132,Reggae
+421,6th generation,265,208,122,Hip Hop
+422,Persistent,295,289,170,Rock
+423,database,285,217,106,Reggae
+424,Digitized,232,268,159,Rock
+425,instruction set,205,214,223,Reggae
+426,Organic,271,241,153,Rock
+427,6th generation,282,227,123,Reggae
+428,Customizable,245,251,202,Reggae
+429,Triple-buffered,205,251,141,Reggae
+430,actuating,206,207,209,Hip Hop
+431,holistic,202,240,131,Rock
+432,logistical,261,232,124,Hip Hop
+433,emulation,281,278,160,Rock
+434,6th generation,245,200,298,Rock
+435,Profound,216,260,253,Hip Hop
+436,bottom-line,285,218,268,Rock
+437,open architecture,223,287,254,Reggae
+438,challenge,217,290,262,Rock
+439,benchmark,215,254,228,Hip Hop
+440,fault-tolerant,216,201,128,Reggae
+441,Decentralized,242,240,207,Reggae
+442,directional,249,207,144,Reggae
+443,systemic,262,219,112,Hip Hop
+444,Multi-channelled,254,247,267,Rock
+445,national,256,251,146,Rock
+446,Reverse-engineered,300,237,163,Reggae
+447,methodology,227,288,175,Reggae
+448,project,297,299,215,Hip Hop
+449,database,214,226,250,Reggae
+450,matrices,265,213,153,Hip Hop
+451,Programmable,203,213,130,Reggae
+452,Business-focused,240,276,138,Rock
+453,leverage,270,259,270,Reggae
+454,Integrated,200,212,262,Reggae
+455,analyzing,206,216,114,Reggae
+456,challenge,281,282,103,Rock
+457,coherent,233,237,118,Rock
+458,Multi-tiered,248,244,116,Rock
+459,model,292,254,158,Rock
+460,Business-focused,213,221,215,Reggae
+461,hub,276,244,130,Hip Hop
+462,Programmable,286,291,128,Hip Hop
+463,Sharable,202,286,253,Rock
+464,Business-focused,247,242,224,Reggae
+465,Organized,243,293,292,Rock
+466,extranet,221,261,283,Rock
+467,Proactive,285,232,120,Hip Hop
+468,ability,224,290,228,Hip Hop
+469,Up-sized,260,291,160,Rock
+470,Self-enabling,292,260,207,Reggae
+471,Function-based,206,254,263,Reggae
+472,Streamlined,283,244,187,Rock
+473,Re-contextualized,246,242,203,Hip Hop
+474,standardization,215,213,246,Reggae
+475,Re-engineered,262,218,147,Hip Hop
+476,optimal,211,218,117,Hip Hop
+477,global,268,268,288,Hip Hop
+478,circuit,214,265,177,Hip Hop
+479,Sharable,241,268,156,Reggae
+480,neutral,288,230,140,Rock
+481,Implemented,240,297,184,Hip Hop
+482,model,248,213,295,Rock
+483,local,291,236,169,Reggae
+484,Focused,204,280,200,Reggae
+485,exuding,210,290,115,Hip Hop
+486,uniform,272,253,169,Hip Hop
+487,optimizing,284,225,197,Hip Hop
+488,asymmetric,216,287,222,Hip Hop
+489,Multi-layered,202,268,275,Hip Hop
+490,discrete,244,203,263,Reggae
+491,5th generation,233,250,277,Rock
+492,multi-state,212,286,139,Hip Hop
+493,Business-focused,242,204,233,Hip Hop
+494,installation,243,210,144,Hip Hop
+495,interactive,219,231,100,Rock
+496,monitoring,253,276,226,Reggae
+497,service-desk,274,236,289,Rock
+498,firmware,289,248,111,Rock
+499,neural-net,217,236,255,Rock
+500,homogeneous,270,262,141,Rock
+501,foreground,236,201,212,Hip Hop
+502,solution-oriented,208,235,118,Rock
+503,Centralized,282,263,271,Reggae
+504,approach,210,243,158,Hip Hop
+505,Visionary,280,246,185,Rock
+506,function,257,206,259,Hip Hop
+507,Multi-layered,250,209,140,Reggae
+508,moratorium,281,230,262,Hip Hop
+509,customer loyalty,245,267,224,Reggae
+510,collaboration,237,249,142,Rock
+511,reciprocal,274,206,192,Reggae
+512,Focused,213,281,142,Hip Hop
+513,Optimized,206,223,298,Reggae
+514,parallelism,235,226,102,Hip Hop
+515,reciprocal,229,218,300,Reggae
+516,website,263,252,104,Reggae
+517,value-added,255,274,177,Hip Hop
+518,infrastructure,286,259,158,Hip Hop
+519,function,277,215,264,Reggae
+520,throughput,244,200,189,Reggae
+521,Seamless,259,252,186,Rock
+522,initiative,224,282,163,Reggae
+523,protocol,288,270,225,Rock
+524,Fundamental,259,249,106,Reggae
+525,asymmetric,201,226,209,Reggae
+526,uniform,239,205,221,Reggae
+527,strategy,248,235,123,Hip Hop
+528,responsive,289,219,138,Reggae
+529,challenge,240,224,100,Rock
+530,Customizable,213,203,197,Hip Hop
+531,structure,284,294,134,Reggae
+532,composite,208,272,244,Hip Hop
+533,encryption,246,281,198,Hip Hop
+534,local area network,295,234,180,Reggae
+535,multi-tasking,225,222,123,Hip Hop
+536,client-server,253,273,148,Reggae
+537,infrastructure,247,227,210,Reggae
+538,3rd generation,283,231,237,Hip Hop
+539,Seamless,276,231,279,Reggae
+540,clear-thinking,237,245,169,Reggae
+541,ability,256,223,141,Rock
+542,3rd generation,292,286,236,Rock
+543,customer loyalty,246,218,279,Reggae
+544,monitoring,293,266,104,Hip Hop
+545,open architecture,294,240,197,Hip Hop
+546,Centralized,289,250,188,Reggae
+547,Programmable,270,275,178,Rock
+548,Secured,251,297,110,Hip Hop
+549,demand-driven,274,232,107,Rock
+550,responsive,263,264,206,Reggae
+551,flexibility,239,270,149,Rock
+552,capability,211,259,188,Rock
+553,emulation,200,242,135,Hip Hop
+554,core,225,256,195,Hip Hop
+555,transitional,250,256,228,Reggae
+556,Front-line,259,250,284,Reggae
+557,Team-oriented,242,229,154,Rock
+558,Horizontal,282,230,111,Reggae
+559,web-enabled,247,236,191,Reggae
+560,high-level,268,264,158,Reggae
+561,Synchronised,200,300,220,Rock
+562,open architecture,269,221,128,Rock
+563,support,251,259,111,Rock
+564,content-based,234,241,296,Rock
+565,systemic,288,215,141,Reggae
+566,Synergized,275,213,103,Hip Hop
+567,Open-source,237,283,250,Reggae
+568,grid-enabled,285,274,188,Hip Hop
+569,Customer-focused,281,223,293,Reggae
+570,framework,209,274,161,Reggae
+571,circuit,288,218,127,Rock
+572,Balanced,218,220,191,Rock
+573,open architecture,255,257,270,Hip Hop
+574,Reverse-engineered,233,210,138,Hip Hop
+575,Cloned,258,271,152,Hip Hop
+576,hierarchy,228,273,178,Hip Hop
+577,Compatible,220,253,187,Reggae
+578,synergy,228,286,167,Rock
+579,human-resource,262,237,194,Reggae
+580,moratorium,276,276,226,Rock
+581,Front-line,278,200,196,Hip Hop
+582,hub,202,285,201,Hip Hop
+583,Open-architected,235,243,212,Hip Hop
+584,discrete,287,203,282,Reggae
+585,utilisation,298,214,199,Reggae
+586,encoding,253,269,149,Reggae
+587,implementation,205,274,141,Rock
+588,zero tolerance,245,253,201,Rock
+589,object-oriented,279,244,135,Reggae
+590,incremental,258,280,110,Rock
+591,utilisation,271,213,189,Reggae
+592,internet solution,263,207,269,Hip Hop
+593,object-oriented,279,288,261,Rock
+594,monitoring,257,248,243,Rock
+595,coherent,225,206,199,Reggae
+596,Streamlined,282,248,169,Hip Hop
+597,Open-architected,237,283,108,Hip Hop
+598,Expanded,221,264,284,Reggae
+599,array,289,293,258,Rock
+600,Devolved,279,281,229,Hip Hop
+601,analyzing,275,284,153,Rock
+602,dynamic,248,261,135,Hip Hop
+603,service-desk,234,224,164,Rock
+604,Virtual,245,268,196,Rock
+605,Compatible,233,299,249,Reggae
+606,stable,265,225,248,Hip Hop
+607,non-volatile,250,206,124,Hip Hop
+608,Stand-alone,299,232,163,Hip Hop
+609,toolset,201,229,148,Reggae
+610,Cloned,296,209,249,Reggae
+611,Distributed,296,250,145,Rock
+612,Right-sized,264,284,253,Reggae
+613,Graphic Interface,244,247,211,Reggae
+614,Object-based,297,217,156,Hip Hop
+615,conglomeration,210,293,165,Hip Hop
+616,Proactive,217,256,191,Hip Hop
+617,contingency,269,263,110,Hip Hop
+618,non-volatile,206,264,107,Reggae
+619,Multi-tiered,300,242,151,Reggae
+620,Self-enabling,223,229,190,Rock
+621,access,232,285,195,Hip Hop
+622,Fundamental,206,257,207,Hip Hop
+623,Realigned,201,285,172,Hip Hop
+624,modular,273,279,259,Hip Hop
+625,Networked,296,280,101,Hip Hop
+626,system engine,213,257,243,Hip Hop
+627,explicit,218,267,206,Hip Hop
+628,contingency,225,283,254,Reggae
+629,Function-based,285,269,241,Rock
+630,firmware,261,248,256,Reggae
+631,Down-sized,264,284,132,Hip Hop
+632,Synergized,300,203,142,Reggae
+633,process improvement,270,289,220,Rock
+634,Polarised,264,200,201,Hip Hop
+635,functionalities,253,214,172,Reggae
+636,paradigm,255,281,175,Hip Hop
+637,paradigm,261,249,266,Hip Hop
+638,client-driven,295,234,236,Rock
+639,client-driven,239,297,118,Reggae
+640,scalable,225,215,141,Hip Hop
+641,function,265,224,159,Rock
+642,local,211,255,277,Hip Hop
+643,database,214,293,171,Hip Hop
+644,methodical,238,254,269,Rock
+645,extranet,274,250,299,Reggae
+646,Optional,233,227,288,Reggae
+647,project,272,288,267,Rock
+648,human-resource,208,294,299,Rock
+649,Triple-buffered,274,230,129,Rock
+650,capability,214,263,186,Rock
+651,actuating,252,247,258,Hip Hop
+652,User-centric,281,282,247,Hip Hop
+653,Monitored,206,237,270,Reggae
+654,disintermediate,270,272,214,Rock
+655,Synergistic,261,300,133,Hip Hop
+656,dedicated,222,237,115,Rock
+657,service-desk,269,288,170,Reggae
+658,Focused,243,273,234,Reggae
+659,Realigned,251,291,296,Hip Hop
+660,regional,260,236,194,Hip Hop
+661,structure,210,250,257,Hip Hop
+662,high-level,277,252,222,Rock
+663,matrices,268,257,165,Rock
+664,object-oriented,293,237,289,Rock
+665,encryption,263,271,249,Reggae
+666,concept,292,287,212,Hip Hop
+667,methodical,291,208,173,Rock
+668,needs-based,202,226,192,Hip Hop
+669,high-level,290,293,119,Reggae
+670,fresh-thinking,298,202,173,Rock
+671,Diverse,273,298,191,Hip Hop
+672,Up-sized,292,265,253,Rock
+673,24 hour,263,294,231,Rock
+674,analyzing,291,252,283,Hip Hop
+675,product,224,294,130,Rock
+676,alliance,242,208,274,Hip Hop
+677,workforce,300,249,178,Hip Hop
+678,Integrated,223,202,178,Rock
+679,Team-oriented,250,287,133,Rock
+680,Sharable,260,224,293,Hip Hop
+681,structure,263,222,119,Rock
+682,portal,257,263,198,Reggae
+683,cohesive,297,229,104,Rock
+684,leverage,241,241,145,Reggae
+685,Progressive,210,281,292,Hip Hop
+686,mobile,211,293,185,Reggae
+687,policy,223,276,120,Reggae
+688,well-modulated,272,293,299,Rock
+689,modular,216,281,181,Rock
+690,modular,286,294,285,Hip Hop
+691,Enhanced,228,252,204,Reggae
+692,background,261,253,237,Reggae
+693,orchestration,285,224,199,Reggae
+694,attitude-oriented,284,234,150,Rock
+695,impactful,227,258,234,Reggae
+696,24/7,243,233,100,Rock
+697,intranet,213,207,137,Hip Hop
+698,Open-source,236,262,276,Reggae
+699,focus group,205,287,253,Reggae
+700,Profit-focused,219,238,225,Rock
+701,bandwidth-monitored,238,262,183,Reggae
+702,cohesive,264,241,226,Rock
+703,encryption,205,290,235,Rock
+704,4th generation,253,237,194,Rock
+705,maximized,263,265,196,Hip Hop
+706,Compatible,244,298,109,Reggae
+707,Re-engineered,257,252,185,Reggae
+708,Managed,253,231,248,Rock
+709,grid-enabled,277,239,106,Hip Hop
+710,data-warehouse,257,220,255,Hip Hop
+711,4th generation,251,225,218,Hip Hop
+712,Cloned,274,230,271,Reggae
+713,Organic,237,254,241,Hip Hop
+714,model,260,205,231,Hip Hop
+715,frame,237,277,225,Reggae
+716,system engine,235,266,157,Rock
+717,policy,283,209,225,Rock
+718,ability,299,219,111,Reggae
+719,challenge,232,287,251,Rock
+720,neural-net,287,244,274,Hip Hop
+721,reciprocal,229,265,259,Rock
+722,multimedia,225,279,116,Reggae
+723,Versatile,274,262,123,Rock
+724,Self-enabling,247,280,180,Rock
+725,Multi-layered,227,253,162,Hip Hop
+726,groupware,230,291,105,Rock
+727,tertiary,292,299,175,Reggae
+728,Graphic Interface,291,285,167,Reggae
+729,support,202,203,170,Reggae
+730,Public-key,211,287,104,Rock
+731,Face to face,286,251,135,Rock
+732,extranet,202,267,159,Rock
+733,Future-proofed,286,285,162,Reggae
+734,content-based,255,220,199,Rock
+735,Digitized,220,210,216,Reggae
+736,Adaptive,248,237,263,Rock
+737,Cross-platform,267,241,203,Rock
+738,Horizontal,258,252,276,Hip Hop
+739,implementation,267,299,199,Rock
+740,support,275,288,273,Reggae
+741,parallelism,264,216,188,Hip Hop
+742,Programmable,285,279,296,Rock
+743,moratorium,241,293,231,Rock
+744,system-worthy,300,269,241,Hip Hop
+745,tangible,268,256,184,Reggae
+746,Pre-emptive,263,287,241,Rock
+747,Right-sized,291,292,245,Hip Hop
+748,Focused,227,203,259,Rock
+749,stable,217,230,177,Rock
+750,groupware,221,210,112,Reggae
+751,Proactive,281,271,242,Hip Hop
+752,De-engineered,244,259,231,Reggae
+753,Vision-oriented,286,295,274,Rock
+754,solution-oriented,271,292,235,Hip Hop
+755,bifurcated,293,236,146,Reggae
+756,paradigm,265,274,257,Hip Hop
+757,cohesive,221,215,120,Hip Hop
+758,Decentralized,266,282,240,Reggae
+759,Persistent,293,271,190,Rock
+760,info-mediaries,274,294,243,Hip Hop
+761,even-keeled,255,216,158,Hip Hop
+762,Expanded,293,237,207,Reggae
+763,encryption,228,225,238,Hip Hop
+764,collaboration,224,217,176,Reggae
+765,emulation,294,297,205,Hip Hop
+766,Fundamental,280,253,213,Hip Hop
+767,optimizing,253,229,279,Reggae
+768,Organic,284,232,205,Reggae
+769,budgetary management,200,286,197,Reggae
+770,Open-source,287,227,259,Reggae
+771,Seamless,230,228,231,Reggae
+772,system-worthy,261,279,221,Rock
+773,Persevering,251,212,140,Reggae
+774,Inverse,200,210,277,Hip Hop
+775,impactful,296,208,185,Reggae
+776,interface,270,224,202,Rock
+777,synergy,251,281,118,Hip Hop
+778,local area network,238,252,126,Reggae
+779,open system,234,285,110,Reggae
+780,Future-proofed,286,235,103,Hip Hop
+781,definition,292,217,175,Reggae
+782,background,223,257,102,Hip Hop
+783,Synchronised,274,257,106,Rock
+784,interactive,281,284,120,Rock
+785,secured line,207,208,120,Reggae
+786,Face to face,251,275,251,Hip Hop
+787,Fully-configurable,223,245,109,Reggae
+788,Expanded,259,266,284,Hip Hop
+789,migration,251,280,134,Rock
+790,support,246,258,140,Reggae
+791,Mandatory,211,225,249,Rock
+792,moratorium,271,211,222,Reggae
+793,Networked,259,207,174,Hip Hop
+794,Profit-focused,296,284,144,Rock
+795,4th generation,210,226,169,Hip Hop
+796,knowledge base,267,232,185,Reggae
+797,Virtual,275,223,207,Hip Hop
+798,Polarised,217,237,217,Hip Hop
+799,capacity,202,239,217,Rock
+800,Seamless,232,294,106,Rock
+801,empowering,213,247,213,Reggae
+802,infrastructure,292,230,245,Hip Hop
+803,hybrid,245,253,148,Hip Hop
+804,actuating,297,259,212,Rock
+805,Vision-oriented,211,203,194,Hip Hop
+806,holistic,222,269,238,Rock
+807,Monitored,248,221,174,Hip Hop
+808,Innovative,252,254,142,Rock
+809,policy,207,290,257,Rock
+810,paradigm,251,214,183,Hip Hop
+811,Profit-focused,205,284,186,Rock
+812,Phased,227,269,193,Rock
+813,local,210,243,103,Reggae
+814,6th generation,222,275,209,Hip Hop
+815,next generation,258,215,191,Reggae
+816,coherent,265,261,147,Rock
+817,Enterprise-wide,297,228,238,Hip Hop
+818,tertiary,280,242,181,Hip Hop
+819,parallelism,239,288,200,Rock
+820,heuristic,241,284,196,Reggae
+821,Grass-roots,236,238,208,Reggae
+822,infrastructure,205,213,235,Hip Hop
+823,Up-sized,275,215,279,Reggae
+824,neural-net,286,261,197,Reggae
+825,moderator,247,244,294,Rock
+826,Multi-tiered,274,272,157,Rock
+827,attitude,267,249,177,Reggae
+828,radical,282,296,284,Reggae
+829,orchestration,229,243,255,Reggae
+830,contextually-based,277,297,237,Reggae
+831,regional,212,221,106,Rock
+832,moderator,290,253,178,Reggae
+833,even-keeled,300,232,288,Reggae
+834,Team-oriented,251,234,143,Hip Hop
+835,De-engineered,264,293,211,Rock
+836,core,247,236,263,Hip Hop
+837,array,272,215,230,Rock
+838,knowledge user,240,207,247,Reggae
+839,Quality-focused,218,228,291,Hip Hop
+840,bandwidth-monitored,226,230,208,Reggae
+841,24 hour,272,237,276,Rock
+842,Reactive,249,247,264,Reggae
+843,multi-state,292,210,258,Rock
+844,time-frame,257,258,199,Reggae
+845,non-volatile,272,266,270,Rock
+846,process improvement,287,297,267,Hip Hop
+847,reciprocal,216,256,265,Hip Hop
+848,flexibility,229,277,112,Hip Hop
+849,Customer-focused,215,298,262,Hip Hop
+850,system-worthy,219,256,286,Hip Hop
+851,emulation,283,273,278,Reggae
+852,client-server,272,222,111,Reggae
+853,24/7,270,218,228,Reggae
+854,utilisation,253,255,212,Rock
+855,Optimized,294,262,250,Hip Hop
+856,concept,291,289,259,Reggae
+857,leading edge,256,245,275,Rock
+858,knowledge user,272,292,132,Hip Hop
+859,Phased,209,258,231,Reggae
+860,User-centric,200,206,181,Hip Hop
+861,multi-tasking,256,292,297,Rock
+862,Ameliorated,279,234,157,Rock
+863,portal,299,252,134,Hip Hop
+864,coherent,240,250,247,Rock
+865,Profit-focused,297,247,145,Reggae
+866,Configurable,264,224,131,Reggae
+867,systemic,258,258,247,Reggae
+868,Intuitive,284,255,195,Hip Hop
+869,clear-thinking,210,289,136,Rock
+870,hardware,210,204,133,Rock
+871,help-desk,294,276,193,Hip Hop
+872,mobile,251,262,238,Rock
+873,capability,201,219,293,Rock
+874,Triple-buffered,299,228,209,Rock
+875,architecture,292,208,166,Hip Hop
+876,radical,220,242,100,Rock
+877,Re-contextualized,257,263,155,Hip Hop
+878,Cloned,233,266,133,Rock
+879,Decentralized,262,269,295,Rock
+880,archive,202,225,119,Reggae
+881,Up-sized,256,282,156,Hip Hop
+882,Graphical User Interface,205,284,217,Hip Hop
+883,Realigned,287,251,154,Hip Hop
+884,human-resource,256,210,187,Reggae
+885,Decentralized,261,282,153,Hip Hop
+886,Right-sized,299,243,269,Reggae
+887,time-frame,297,285,203,Reggae
+888,instruction set,229,205,133,Hip Hop
+889,capacity,267,232,170,Reggae
+890,Ameliorated,227,248,117,Reggae
+891,Exclusive,268,257,107,Reggae
+892,uniform,285,232,113,Rock
+893,collaboration,276,207,140,Rock
+894,actuating,204,201,134,Reggae
+895,Exclusive,232,284,296,Reggae
+896,human-resource,243,273,140,Hip Hop
+897,monitoring,217,285,188,Rock
+898,Up-sized,266,267,166,Rock
+899,Integrated,221,259,151,Reggae
+900,Centralized,244,233,168,Rock
+901,analyzer,271,278,282,Reggae
+902,Focused,204,212,112,Rock
+903,task-force,211,296,290,Rock
+904,migration,300,241,143,Reggae
+905,full-range,278,211,104,Hip Hop
+906,initiative,243,236,272,Hip Hop
+907,content-based,286,299,287,Reggae
+908,bandwidth-monitored,292,269,106,Rock
+909,synergy,295,229,164,Hip Hop
+910,maximized,240,297,208,Reggae
+911,Optional,216,273,250,Rock
+912,regional,243,279,156,Hip Hop
+913,global,279,221,247,Reggae
+914,well-modulated,269,299,220,Reggae
+915,24/7,274,259,156,Reggae
+916,eco-centric,280,281,130,Reggae
+917,pricing structure,263,298,289,Rock
+918,help-desk,254,249,113,Rock
+919,secured line,221,211,266,Reggae
+920,Compatible,272,247,206,Hip Hop
+921,dynamic,262,270,123,Reggae
+922,Graphic Interface,268,226,177,Reggae
+923,eco-centric,213,256,224,Reggae
+924,web-enabled,239,268,159,Rock
+925,knowledge user,298,219,226,Reggae
+926,Progressive,252,281,241,Rock
+927,3rd generation,260,247,165,Rock
+928,hybrid,298,247,142,Reggae
+929,content-based,294,272,251,Rock
+930,Reduced,242,251,174,Reggae
+931,systematic,221,211,150,Reggae
+932,emulation,268,278,141,Rock
+933,Implemented,221,226,104,Hip Hop
+934,ability,264,226,135,Hip Hop
+935,Multi-lateral,241,233,141,Reggae
+936,Vision-oriented,222,293,141,Reggae
+937,De-engineered,214,208,200,Hip Hop
+938,background,203,258,112,Hip Hop
+939,web-enabled,253,207,139,Rock
+940,bi-directional,266,276,210,Hip Hop
+941,pricing structure,280,245,229,Reggae
+942,responsive,201,250,246,Reggae
+943,Function-based,255,262,137,Rock
+944,Configurable,231,223,116,Rock
+945,Horizontal,222,201,126,Hip Hop
+946,content-based,284,246,147,Reggae
+947,responsive,223,246,284,Hip Hop
+948,database,276,250,181,Hip Hop
+949,Distributed,228,256,261,Hip Hop
+950,Open-source,205,272,150,Reggae
+951,Managed,234,296,201,Hip Hop
+952,Adaptive,218,268,240,Hip Hop
+953,methodology,206,269,263,Rock
+954,Diverse,297,217,105,Rock
+955,Self-enabling,201,232,159,Rock
+956,full-range,208,275,295,Hip Hop
+957,Profit-focused,298,207,117,Rock
+958,bifurcated,247,265,117,Rock
+959,help-desk,236,216,221,Reggae
+960,directional,242,215,112,Reggae
+961,Reactive,245,246,142,Reggae
+962,website,225,266,123,Hip Hop
+963,Open-source,234,224,142,Hip Hop
+964,human-resource,203,207,157,Hip Hop
+965,Networked,297,251,107,Hip Hop
+966,analyzer,258,300,134,Hip Hop
+967,Monitored,292,208,222,Hip Hop
+968,emulation,262,205,228,Reggae
+969,Team-oriented,229,297,185,Reggae
+970,Assimilated,212,279,153,Hip Hop
+971,circuit,247,269,278,Reggae
+972,incremental,206,207,182,Rock
+973,database,293,273,108,Hip Hop
+974,contingency,249,211,235,Rock
+975,Team-oriented,216,219,212,Rock
+976,process improvement,204,239,197,Hip Hop
+977,process improvement,246,268,231,Rock
+978,matrix,291,200,270,Hip Hop
+979,mobile,233,277,121,Rock
+980,circuit,267,286,283,Reggae
+981,explicit,221,251,262,Reggae
+982,clear-thinking,222,264,173,Rock
+983,analyzing,223,286,180,Reggae
+984,access,281,236,287,Hip Hop
+985,Integrated,285,262,134,Hip Hop
+986,asymmetric,255,202,104,Hip Hop
+987,Balanced,213,273,127,Rock
+988,value-added,248,273,154,Reggae
+989,neural-net,259,201,242,Hip Hop
+990,Function-based,235,256,275,Hip Hop
+991,Sharable,234,262,205,Rock
+992,benchmark,236,296,208,Rock
+993,Grass-roots,237,207,237,Reggae
+994,moderator,244,246,251,Reggae
+995,analyzer,278,232,151,Hip Hop
+996,attitude,255,270,127,Reggae
+997,success,280,285,212,Hip Hop
+998,Expanded,222,261,227,Hip Hop
+999,Distributed,212,269,256,Hip Hop
+1000,Robust,272,262,272,Reggae
